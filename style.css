@@ -28,6 +28,7 @@ figcaption{text-align:center;
   
 }
 
+<<<<<<< HEAD
  #featured-property p {
  width:800px; 
  text-align:center;
@@ -47,3 +48,11 @@ div {
   text-align: center;
   width:25%;
 }
+=======
+ #featured-property p {width:800px; 
+ text-align:center;
+ margin-left:auto; 
+margin-right:auto;
+  
+}
+>>>>>>> d4225f1413422bc0bfcbf4359a4665603131b31d
